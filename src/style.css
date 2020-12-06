@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "example";
+  src: url("./YasashisaGothic.otf") format("otf");
+  font-weight: 600;
+  font-style: normal;
+}
+
+.hello {
+  color: red;
+  font-family: "example";
+  background: url("./icon.png");
+}
